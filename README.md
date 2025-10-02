@@ -18,7 +18,7 @@ Shown below in order:
 <p align="center">
   <img src="./docs/screenshots/landing.png" width="32%">
   <img src="./docs/screenshots/benefits.png" width="32%">
-  <img src="./docs/screenshots/diciplines.png" width="32%">
+  <img src="./docs/screenshots/disciplines.png" width="32%">
 </p>
 
 <p align="center">
